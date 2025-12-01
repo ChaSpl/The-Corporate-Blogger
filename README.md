@@ -1,7 +1,3 @@
-# The-Corporate-Blogger
-
-
-
 # The Corporate Blogger
 
 AI agents weave your brand's evolving narrative journey into powerful storytelling. This is a powerful agent architecture that generates professional corporate blog posts using Google's AI API. Perfect for businesses, marketers, and content creators who need consistent, high-quality blog content.
@@ -47,11 +43,12 @@ AI agents weave your brand's evolving narrative journey into powerful storytelli
     - Entering your blog topic
     - Specifying the blog length
 
-6. **🔒 Security**
+## 🔒 Security
+
     Important: Never commit your .env file or share your API keys publicly.
     The .gitignore file is configured to exclude .env
     API keys are loaded from environment variables only
     Your secrets remain on your local machine
 
-7. **Happy Blogging! 📝✨**
+## 📝✨ Happy Blogging! 
 
